@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /images/
+Disallow: /notfound.html
+
+User-Agent: Googlebot-Image
+Disallow: /
+
+Sitemap: http://www.flareau.ca/sitemap.xml

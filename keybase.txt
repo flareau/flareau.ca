@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/pacolaro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://flareau.ca
+  * I am pacolaro (https://keybase.io/pacolaro) on keybase.
+  * I have a public key with fingerprint 8E75 0FA8 AEFD A7BD 66AF  C96B 0D53 E200 78A6 8DA9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014914dc92504e1cff892e396877287e943d638730aca6701a5402435c696539970a",
+      "fingerprint": "8e750fa8aefda7bd66afc96b0d53e20078a68da9",
+      "host": "keybase.io",
+      "key_id": "0d53e20078a68da9",
+      "kid": "01014914dc92504e1cff892e396877287e943d638730aca6701a5402435c696539970a",
+      "uid": "d6eb28021bc7c6ac0f765103e7e8cf19",
+      "username": "pacolaro"
+    },
+    "service": {
+      "hostname": "flareau.ca",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1518020552,
+  "expire_in": 157680000,
+  "prev": "74144c5d2150236e774ad15dd157d0ac88d514a9d74bcd125658383e95eb36ff",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD6WFxKSRIgiyxqCfDjFzO7OzO5RAqMiKuqhh9Kk0+zOrC7q
+7mnPOZp5IsjC6B7dyKIy6UI9dMFK0vJSUtFLL5USFT1ZUWLSjS7SbJenXhsYhv+f
+7/v+7//574wfG8pOmzf2Wxeo6zmb9qDnYDJU1jDrXgMwPV4PIg2gSvx6RDUX8US0
+yuEgAiCCSDOQxi1DwVATyLJt3VCEahCdUkWnwtBUTlSdqpBZjFCIGNagoqnYIgbB
+qmFQyEAY2I5bIfyY77gJKasLiqHNdCZszqjJCWG2ZRATcqwKBUKqM6JzZkhipRcP
+GNKcyeJijuPJnAyiv+39i//PvpO/5DgRpqJDBZkWtQizoE0JRlAVVOiWjYK6ybjw
+XVYjJDrGLK+a+R7YGAYyW+tYIhhs0MkfhC2/BUvOsYISMd9LeJIh85WJRCwS0BL1
+sQBXJ8zoH4Wo6bhcDlESaoUfdzwXRJBEWgknkEQYSX8QYyUMxPqY44uoEyAwJTqU
+JygjaqUk1ZCmWZgrCENFJYJSjXGEubyUy1noOsdIYwanmmlxpGCCdVVXhYGFqRLb
+BkFP61wPRBRD+mQVUjPuVLgskfQF2NjbXZ4eSssOZWaMCbYrlD1uwt+dayrP+jGh
+pbtw9NzHt/l7lx5vbX3UWbSoK0fNux29+b7JnbrpS+aZvhdZi0uMPhD5/FrLHDk8
++cadqprRg/cvp54W584dt9Y7sSJ6dfnyMZV5g6+3Pe9YePRQe2n3qrKvOQtOt5fW
+NO9LDY08XN/fOJsMpL+6u3h/fUnBVvqyjWyeEh4ubCusK9hdeX3aqVdXLnbsa05T
+8r4vuddXuGPPraylYBhN7yo/H84YWEPyq3cNfGr5MaPxVH9kJt3Mci/0NbVZOdfG
+g2Piaz1KbZ24rOBQxuMnateBndknyy4NDh/LLd7w7F3pkpWd22e7W4omfWjd0Hmy
+Zn7enracN6nBs02rjwyd7vVToDn9J6TmO/g=
+=tHJ9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pacolaro
+
+==================================================================
