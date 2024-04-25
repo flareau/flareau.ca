@@ -57,12 +57,11 @@
 <h1>Étudiants actuels</h1>
 
 <ul>
-	<!-- <li><a href="">Shuxu Li ()</a>, M.A. en linguistique, sujet à déterminer</li> -->
+	<li><a href="https://www.linkedin.com/in/shuxu-li-a52871199/">Shùxù Lǐ (李树旭)</a>, M.A. en linguistique, <i>Évaluation de la compétence lexicale des modèles de langues</i></li>
 	<li><a href="https://www.linkedin.com/in/li-liu-刘莉-36729a214">Lì Liú (刘莉)</a>, Ph.D. en linguistique, <i>Les collocations du mandarin dans un réalisateur de texte</i></li>
-	<li><a href="https://www.linkedin.com/in/jaime-andrés-negrón-rodr%C3%ADguez-49168214b">Jaime Andrés Negrón Rodríguez</a>, M.A. en linguistique, Le temps verbal en réalisation de texte multilingue</li>
-	<li><a href="https://www.linkedin.com/in/yunpeng-qiao-a8b434250">Yúnpéng Qiáo (乔云鹏)</a>, M.A. en linguistique, Les verbes à montée et à contrôle dans un réalisateur de texte</li>
-	<!-- <li><a href="">Shuyang Sun ()</a>, M.A. en linguistique, sujet à déterminer</li> -->
-	<!-- <li><a href="">Yìshēng Zhī (支奕升)</a>, M.A. en linguistique, sujet à déterminer</li> -->
+	<li><a href="https://www.linkedin.com/in/jaime-andrés-negrón-rodr%C3%ADguez-49168214b">Jaime Andrés Negrón Rodríguez</a>, M.A. en linguistique, <i>Le temps verbal en réalisation de texte multilingue</i></li>
+	<li><a href="https://www.linkedin.com/in/yunpeng-qiao-a8b434250">Yúnpéng Qiáo (乔云鹏)</a>, M.A. en linguistique, <i>Les verbes à montée et à contrôle dans un réalisateur de texte</i></li>
+	<li><a href="">Yìshēng Zhī (支奕升)</a>, M.A. en linguistique, sujet à déterminer</li>
 </ul>
 
 
