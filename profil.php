@@ -14,7 +14,7 @@
 	</p>
 	<h3>Présence web</h3>
 	<p>
-		<a href="http://ling-trad.umontreal.ca/repertoire-departement/vue/lareau-francois/">Université de Montréal</a>
+		<a href="https://ling-trad.umontreal.ca/repertoire-departement/professeurs/professeur/in/in19186/sg/François%20Lareau/">Université de Montréal</a>
 		<br/>
 		<a href="https://www.researchgate.net/profile/Francois_Lareau">Research Gate</a>
 		<br/>
@@ -32,12 +32,12 @@
 <h1>Intérêts de recherche</h1>
 
 <ul>
-	<li>Sémantique</li>
-	<li>Interface sémantique-syntaxe</li>
+	<li>Lexicologie computationnelle</li>
 	<li>Génération de texte multilingue</li>
 	<li>Collocations</li>
 	<li>Phraséologie</li>
-	<li>Lexicographie computationnelle</li>
+	<li>Sémantique</li>
+	<li>Interface sémantique-syntaxe</li>
 	<li>Théorie Sens-Texte</li>
 	<li>Grammaire d'Unification Polarisée</li>
 <!-- 	<li>Linguistique théorique et formelle</li> -->
@@ -47,6 +47,7 @@
 <h1>Projets subventionnés</h1>
 
 <ul>
+	<li><i>Mesurer l'aptitude lexicale des grands modèles de langues génératifs</i> (CRSH–Développement Savoir, 2024–2026; chercheur principal: <a href="https://ling-trad.umontreal.ca/repertoire-departement/professeurs/professeur/in/in31544/sg/Antoine%20Venant/">Antoine Venant</a>, cochercheur: <a href="http://www.iro.umontreal.ca/~felipe">Philippe Langlais</a>)</li>
 	<li><i>Twitter-MPhon: Harnessing Twitter for morphophonological variation</i> (CRSH–Développement Savoir, 2021–2023; chercheur principal: <a href="https://mcdowlinguist.github.io">Michael Dow</a>, cochercheur: <a href="http://termino.info">Patrick Drouin</a>)</li>
 	<li><i>NÉONUM: infrastructure de veille pour la néologie en français québécois</i> (CRSH–Développement Savoir, 2019–2021; chercheur principal: <a href="http://termino.info">Patrick Drouin</a>, cochercheur: <a href="http://www.iro.umontreal.ca/~felipe">Philippe Langlais</a>)</li>
 	<li><i>La génération automatique de définitions lexicographiques</i> (CRSH–Développement Savoir, 2018–2020; collaborateur: <a href="https://perso.atilf.fr/apolguere">Alain Polguère</a>)</li>
@@ -57,12 +58,14 @@
 <h1>Étudiants actuels</h1>
 
 <ul>
-	<li><a href="https://www.linkedin.com/in/shuxu-li-a52871199/">Shùxù Lǐ (李树旭)</a>, M.A. en linguistique, <i>Évaluation de la compétence lexicale des modèles de langues</i></li>
-	<li><a href="https://www.linkedin.com/in/li-liu-刘莉-36729a214">Lì Liú (刘莉)</a>, Ph.D. en linguistique, <i>Les collocations du mandarin dans un réalisateur de texte</i></li>
-	<li><a href="https://www.linkedin.com/in/jaime-andrés-negrón-rodr%C3%ADguez-49168214b">Jaime Andrés Negrón Rodríguez</a>, M.A. en linguistique, <i>Le temps verbal en réalisation de texte multilingue</i></li>
-	<li><a href="https://www.linkedin.com/in/yunpeng-qiao-a8b434250">Yúnpéng Qiáo (乔云鹏)</a>, M.A. en linguistique, <i>Les verbes à montée et à contrôle dans un réalisateur de texte</i></li>
-	<li><a href="">Yìshēng Zhī (支奕升)</a>, M.A. en linguistique, sujet à déterminer</li>
+	<li><a href="">Arianne Arel</a>, M.A. en linguistique, <i>Le vocabulaire de base des définitions en français</i></li>
+	<li><a href="">Loïc Daignault-Pichette</a>, M.A. en linguistique, <i>Un modèle informatique de la morphologie de la langue innue</i></li>
+	<li><a href="https://www.researchgate.net/profile/Avril-Gazeau">Avril Gazeau</a>, Ph.D. en linguistique, <i>Les composantes sémantiques faibles</i></li>
+	<li><a href="https://www.linkedin.com/in/shuxu-li-a52871199/">Shùxù Lǐ (李树旭)</a> (codirecteur: <a href="https://ling-trad.umontreal.ca/repertoire-departement/professeurs/professeur/in/in31544/sg/Antoine%20Venant/">Antoine Venant</a>), M.A. en linguistique, <i>Évaluation de la compétence lexicale des modèles de langues</i></li>
+	<li><a href="https://www.linkedin.com/in/li-liu-36729a214">Lì Liú (刘莉)</a>, Ph.D. en linguistique, <i>Le figement lexical dans les modèles de langues</i></li>
+	<li><a href="https://ca.linkedin.com/in/ariel-p-soucy-475b55209">Ariel Soucy</a> (codirecteur: <a href="http://termino.info">Patrick Drouin</a>), M.A. en linguistique, <i>Détection automatique des changements de sens en diachronie</i></li>
 </ul>
+
 
 
 
@@ -90,7 +93,9 @@
 	<li><a href="https://www.linkedin.com/in/琳娜-贺-808b60181">Línnà Hè (贺琳娜)</a>, 2021, M.A. en linguistique, <i>Un dictionnaire de régimes verbaux en mandarin</i> <a href="http://olst.ling.umontreal.ca/pdf/He_Linna_2020_memoire.pdf">[pdf]</a></li>
 	<li><a href="https://www.linkedin.com/in/florie-lambrey-b04b3b7b">Florie Lambrey</a>, 2016, M.A. en linguistique, <i>Implémentation des collocations pour la réalisation de texte multilingue</i> <a href="http://olst.ling.umontreal.ca/pdf/Lambrey_Florie_2016_memoire.pdf">[pdf]</a></li>
 	<li><a href="https://www.linkedin.com/in/lapointefrancis">Francis Lapointe</a>, 2017, Ph.D. en linguistique (directrice principale: <a href="https://www.usherbrooke.ca/dall/nous-joindre/personnel-enseignant/dostie-gaetane">Gaétane Dostie</a>, Université de Sherbrooke), 2017, <i>Identification automatique et analyse sémantique des marqueurs illocutoires du français québécois en contexte de conversation familière</i> <a href="http://savoirs.usherbrooke.ca/bitstream/handle/11143/11579/Lapointe_Francis_PhD_2017.pdf">[pdf]</a></li>
+	<li><a href="https://www.linkedin.com/in/jaime-andrés-negrón-rodr%C3%ADguez-49168214b">Jaime Andrés Negrón Rodríguez</a>, 2024, M.A. en linguistique, <i>Le temps verbal en réalisation de texte multilingue</i> <a href="https://olst.ling.umontreal.ca/static/pdf/Negrón_Rodríguez_Jaime_Andrés_2024_memoire.pdf">[pdf]</a></li>
 	<li><a href="https://www.linkedin.com/in/charlotte-portenseigne-5186b7128">Charlotte Portenseigne</a>, 2021, M.A. en linguistique, <i>L’implémentation des relatives dans un réalisateur profond</i> <a href="http://olst.ling.umontreal.ca/pdf/Portenseigne_Charlotte_2021_mémoire.pdf">[pdf]</a></li>
+	<li><a href="https://www.linkedin.com/in/yunpeng-qiao-a8b434250">Yúnpéng Qiáo (乔云鹏)</a>, M.A. en linguistique, <i>Les verbes à montée et à contrôle dans un réalisateur de texte</i> <a href="https://olst.ling.umontreal.ca/static/pdf/Qiao_Yunpeng_2024_memoire.pdf">[pdf]</a></li>
 	<li><a href="https://www.linkedin.com/in/simrichard">Simon Richard</a>, 2016, M.A. en linguistique, <i>Un outil pour développer et tester les grammaires d’unification polarisées</i> <a href="http://olst.ling.umontreal.ca/pdf/Richard_Simon_2016_memoire.pdf">[pdf]</a></li>
 	<li><a href="https://www.linkedin.com/in/xiaoyu-zhao-72129678">Xiǎoyǔ Zhào (赵小羽)</a>, 2018, M.A. en linguistique, <i>Les collocations du champ sémantique des émotions en mandarin</i> <a href="http://olst.ling.umontreal.ca/pdf/Zhao_Xiaoyu_2018_memoire.pdf">[pdf]</a> <a href="http://olst.ling.umontreal.ca/xiaoyu">[dictionnaire]</a></li>
 </ul>
@@ -99,6 +104,7 @@
 <h1>Anciens stagiaires</h1>
 
 <ul>
+	<li>Diego Sánchez Mayor</li>
 	<li><a href="https://www.linkedin.com/in/ieva-dubinskaite">Ieva Dubinskaitė</a></li>
 	<!~~li>Ming Huang</li~~>
 	<li><a href="https://www.linkedin.com/in/martin-růžička-a6225865">Martin Růžička</a></li>
@@ -110,10 +116,11 @@
 
 <h1>Enseignement</h1>
 
-<h2>2023–2024</h2>
+<h2>2024–2025</h2>
 <ul>
-	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-2080">LNG 2080—Sémantique</a></li>
-	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-3045">LNG 3045—Lexicographie</a></li>
+	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-1080">LNG 1080—Notions de Lexicologie, morphologie et sémantique</a></li>
+<!-- 	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-2080">LNG 2080—Sémantique</a></li> -->
+<!-- 	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-3045">LNG 3045—Lexicographie</a></li> -->
 	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-6021">LNG 6021—Génération automatique de texte</a></li>
 </ul>
 
@@ -132,6 +139,13 @@
 
 
 <!-- 
+<h2>2023–2024</h2>
+<ul>
+	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-2080">LNG 2080—Sémantique</a></li>
+	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-3045">LNG 3045—Lexicographie</a></li>
+	<li><a href="https://admission.umontreal.ca/cours-et-horaires/cours/lng-6021">LNG 6021—Génération automatique de texte</a></li>
+</ul>
+
 <h2>2021–2022</h2>
 <ul>
 	<li>LNG 1955—Notions générales de linguistique</li>
