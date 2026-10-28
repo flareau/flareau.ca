@@ -1,5 +1,5 @@
-+++
-title = "Publications"
-layout = "publications"
-url = "/publications.html"
-+++
+---
+title: "Publications"
+layout: "publications"
+url: "/publications.html"
+---

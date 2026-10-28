@@ -1,9 +1,12 @@
 # Enseignement
 
-## 2025–2026
+## Automne 2026
 
-- [LNG 1080—Notions de Lexicologie, morphologie et sémantique](https://admission.umontreal.ca/cours-et-horaires/cours/lng-1080)
-- [LNG 3045—Lexicographie](https://admission.umontreal.ca/cours-et-horaires/cours/lng-3045)
+- [LNG 6021—Génération automatique de texte](https://admission.umontreal.ca/cours-et-horaires/cours/lng-6021)
+
+## Hiver 2027 
+
+En sabbatique.
 
 ## Années antérieures
 
