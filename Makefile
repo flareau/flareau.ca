@@ -1,7 +1,7 @@
 .PHONY: build serve publications
 
 build: publications
-	hugo --minify
+	hugo --minify --cleanDestinationDir
 
 serve: publications
 	hugo server
