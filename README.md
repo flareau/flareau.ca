@@ -25,3 +25,7 @@ Tout le contenu à maintenir manuellement est regroupé dans `content/` :
 Le `Makefile` régénère automatiquement `data/publications.json` avant chaque
 prévisualisation ou build. Le reste du dépôt constitue la mécanique du site et
 ne demande normalement aucune modification.
+
+## TODO
+
+- Bib2yaml: https://discourse.gohugo.io/t/bibtex-support/8879
