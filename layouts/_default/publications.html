@@ -3,8 +3,9 @@
   <ul class="result">
     {{ range hugo.Data.publications }}
       <li class="bibline" id="{{ .key }}">
-        <span class="bibtitle">{{ .title }}</span>{{ with .authors }} <span class="bibauthor">({{ . }})</span>{{ end }}{{ with .venue }}, <span class="bibbooktitle">{{ . }}</span>{{ end }}{{ with .publisher }}, <span class="bibpublisher">{{ . }}</span>{{ end }}{{ with .volume }}, volume {{ . }}{{ end }}{{ with .year }}, {{ . }}{{ end }}.{{ with .note }} ({{ . }}){{ end }}
-        <span class="bibmenu"><a class="biburl" href="{{ "publis.bib" | relURL }}">[bibtex]</a>{{ with .pdf }} <a href="{{ . }}">[pdf]</a>{{ end }}{{ with .poster }} <a href="{{ . }}">[poster]</a>{{ end }}{{ with .url }} <a href="{{ . }}">[url]</a>{{ end }}</span>
+        <span class="bibtitle">{{ .title }}</span>. <span class="bibmenu"><a class="biburl" href="{{ "publis.bib" | relURL }}">[bibtex]</a>{{ with .pdf }} <a href="{{ . }}">[pdf]</a>{{ end }}{{ with .poster }} <a href="{{ . }}">[poster]</a>{{ end }}{{ with .url }} <a href="{{ . }}">[url]</a>{{ end }}</span><br/>
+        <span class="bibauthor">{{ .authors }}</span> ({{ .year }})<br/>
+        <span class="bibbooktitle">{{ .venue }}</span>{{ with .volume }}, volume {{ . }}{{ end }}.<br/>
       </li>
     {{ end }}
   </ul>

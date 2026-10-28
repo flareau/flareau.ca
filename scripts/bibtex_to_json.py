@@ -128,29 +128,23 @@ def resolve_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
         entry_type = entry.get("_type", "")
         venue = ""
         if entry_type == "article":
-            venue = f"Dans {latex_to_text(entry.get('journal', ''))}"
+            venue = f"{latex_to_text(entry.get('journal', ''))}"
         elif entry_type in {"inproceedings", "conference"}:
-            venue = f"Dans {latex_to_text(entry.get('booktitle', ''))}"
+            venue = f"{latex_to_text(entry.get('booktitle', ''))}"
         elif entry_type in {"incollection", "inbook"}:
-            venue = f"Chapitre dans {latex_to_text(entry.get('booktitle', ''))}"
-        if editor := entry.get("editor"):
-            venue += f" ({format_names(editor, editors=True)})"
-
-        publisher = latex_to_text(entry.get("publisher", ""))
-        if not publisher and entry_type == "phdthesis":
-            publisher = f"Thèse de doctorat, {latex_to_text(entry.get('school', ''))}"
-        elif not publisher and entry_type == "mastersthesis":
-            publisher = f"Mémoire de maîtrise, {latex_to_text(entry.get('school', ''))}"
+            venue = f"{latex_to_text(entry.get('booktitle', ''))}"
+        elif entry_type == "phdthesis":
+            venue = f"Thèse de doctorat, {latex_to_text(entry.get('school', ''))}"
+        elif entry_type == "mastersthesis":
+            venue = f"Mémoire de maîtrise, {latex_to_text(entry.get('school', ''))}"
 
         resolved.append({
             "key": source["key"],
             "title": latex_to_text(entry.get("title", "")),
             "authors": format_names(entry.get("author", "")),
             "venue": venue.strip(),
-            "publisher": publisher,
             "volume": latex_to_text(entry.get("volume", "")),
             "year": latex_to_text(entry.get("year", "")),
-            "note": latex_to_text(entry.get("note", entry.get("notes", ""))),
             "pdf": local_url(entry.get("pdf", "")),
             "poster": local_url(entry.get("poster", "")),
             "url": local_url(entry.get("url", "")),
