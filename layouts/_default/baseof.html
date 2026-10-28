@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ .Description | default site.Params.description }}">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ site.Title }} — {{ .Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "style.css" | relURL }}">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}">
+</head>
+<body>
+  <div class="container">
+    {{ partial "header.html" . }}
+    <main id="content">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+  </div>
+</body>
+</html>

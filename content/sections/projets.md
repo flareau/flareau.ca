@@ -1,0 +1,8 @@
+# Projets subventionnés
+
+- *Les temps verbaux du passé en espagnol langue seconde: étude approfondie de l’acquisition et recommandations pédagogiques* (CRSH–Développement Savoir, 2025–2027; chercheuse principale: [Maura Cruz Enríquez](https://www.teluq.ca/siteweb/univ/en/mcruzen.html), cochercheuses: [Anahí Alba de la Fuente](https://llm.umontreal.ca/repertoire-departement/corps-professoral/professeur/in/in19400/sg/Anahi%20Alba%20de%20la%20Fuente/), [Anna Joan Casademont](https://www.teluq.ca/siteweb/univ/en/ajoanca.html))
+- *Mesurer l’aptitude lexicale des grands modèles de langues génératifs* (CRSH–Développement Savoir, 2024–2026; chercheur principal: [Antoine Venant](https://ling-trad.umontreal.ca/repertoire-departement/professeurs/professeur/in/in31544/sg/Antoine%20Venant/), cochercheur: [Philippe Langlais](http://www.iro.umontreal.ca/~felipe))
+- *Twitter-MPhon: Harnessing Twitter for morphophonological variation* (CRSH–Développement Savoir, 2021–2023; chercheur principal: [Michael Dow](https://mcdowlinguist.github.io), cochercheur: [Patrick Drouin](http://termino.info))
+- *NÉONUM: infrastructure de veille pour la néologie en français québécois* (CRSH–Développement Savoir, 2019–2021; chercheur principal: [Patrick Drouin](http://termino.info), cochercheur: [Philippe Langlais](http://www.iro.umontreal.ca/~felipe))
+- *La génération automatique de définitions lexicographiques* (CRSH–Développement Savoir, 2018–2020; collaborateur: [Alain Polguère](https://perso.atilf.fr/apolguere))
+- *Le traitement des collocations en génération automatique de texte* (FRQSC–Établissement de nouveaux professeurs, 2015–2018)

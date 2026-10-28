@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700");
+
 /* ============= */
 /*   Reset CSS   */
 /* ============= */
@@ -71,9 +74,6 @@ nav ul li {
 /*   2. Basic styling   */
 /* ==================== */
 
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700);
-
 h1 {
 	font-family: "Montserrat", Arial, sans-serif;
 	font-weight: 700;
@@ -134,14 +134,14 @@ hr {
 	float: right;
 }
 #content, header {
-	width: 800px;
+	max-width: 800px;
 	margin: 0 auto;
 	padding-top: 0px;
 	font-size: 1.2em;
 }
 #footer {
 	margin: 0 auto;
-	width: 800px;
+	max-width: 800px;
 	padding: 60px 0 20px 0;
 }
 #footer p {
@@ -150,12 +150,20 @@ hr {
 	color: #aaa;
 }
 
-div .contact {
+.contact {
+	float: right;
+	margin-top: 10px;
 	margin-bottom: 3em;
 	margin-left: 3em;
 }
 
-div .contact h3, div .contact p {
+.contact img {
+	border: 5px solid #333;
+	height: auto;
+	max-width: 100%;
+}
+
+.contact h3, .contact p {
 	font-size: 85%;
 }
 
@@ -180,4 +188,39 @@ div .contact h3, div .contact p {
 }
 .sheader h2 {
 	margin: 0;
+}
+
+@media (max-width: 860px) {
+	header {
+		padding-top: 40px;
+	}
+
+	#content, header, #footer {
+		box-sizing: border-box;
+		max-width: none;
+		width: auto;
+		margin-right: 24px;
+		margin-left: 24px;
+	}
+
+	nav {
+		float: none;
+		margin: 24px 0 12px;
+	}
+
+	nav ul li {
+		padding: 0 26px 0 0;
+	}
+}
+
+@media (max-width: 560px) {
+	#content, header, #footer {
+		margin-right: 16px;
+		margin-left: 16px;
+	}
+
+	.contact {
+		float: none;
+		margin: 24px 0 32px;
+	}
 }

@@ -1,0 +1,17 @@
+<header>
+  <div id="name">
+    <h1>François Lareau</h1>
+    <h2>
+      Professeur agrégé<br>
+      <a href="https://olst.ling.umontreal.ca">OLST</a>,
+      <a href="https://ling-trad.umontreal.ca">Université de Montréal</a>
+    </h2>
+  </div>
+  <nav aria-label="Navigation principale">
+    <ul>
+      {{ range site.Menus.main }}
+        <li><a href="{{ .URL }}"{{ if $.IsMenuCurrent .Menu . }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>

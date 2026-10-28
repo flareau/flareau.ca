@@ -1,0 +1,21 @@
+baseURL = "https://flareau.ca/"
+locale = "fr-CA"
+title = "François Lareau"
+contentDir = "content/pages"
+assetDir = "content"
+staticDir = ["static", "content/publications"]
+disableKinds = ["taxonomy", "term", "RSS"]
+enableRobotsTXT = false
+
+[params]
+  description = "François Lareau, professeur agrégé à l'Université de Montréal"
+
+[[menus.main]]
+  name = "Profil"
+  pageRef = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "Publications"
+  pageRef = "/publications"
+  weight = 20

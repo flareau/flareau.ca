@@ -1,0 +1,4 @@
+<footer id="footer">
+  {{ $buildDate := now }}
+  <p>Dernière mise à jour : <time datetime="{{ $buildDate.Format "2006-01-02" }}">{{ $buildDate.Format "2006-01-02" }}</time></p>
+</footer>

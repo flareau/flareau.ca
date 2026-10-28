@@ -1,0 +1,6 @@
+{{- $path := .Get 0 -}}
+{{- with resources.Get $path -}}
+  {{- $.Page.RenderString .Content -}}
+{{- else -}}
+  {{- errorf "Section Markdown introuvable : %s" $path -}}
+{{- end -}}
