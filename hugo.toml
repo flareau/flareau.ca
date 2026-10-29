@@ -1,5 +1,5 @@
 baseURL = "https://flareau.ca/"
-relativeURLs = true
+relativeURLs = false
 locale = "fr-CA"
 title = "François Lareau"
 contentDir = "content/pages"
