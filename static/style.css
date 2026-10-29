@@ -35,6 +35,11 @@ header {
 ol, ul {
 	list-style: circle;
 }
+#projets-subventionnés + ul > li,
+#étudiants-actuels + ul > li,
+#diplômés + ul > li {
+	margin-bottom: .5ex;
+}
 
 /* 
 #content li:before {
@@ -169,6 +174,12 @@ hr {
 
 
 /* Publis */
+
+.publications-header {
+	display: flex;
+	align-items: baseline;
+	gap: 1ex;
+}
 
 .bibtitle {
 	font-weight: 600;

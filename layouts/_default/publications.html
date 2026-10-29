@@ -1,9 +1,16 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  {{- /* Sort by year descending, then by title within each year. */ -}}
+  {{- $publications := sort hugo.Data.publications "title" "asc" -}}
+  {{- $publications = sort $publications "year" "desc" -}}
+
+  <div class="publications-header">
+    <h1>{{ .Title }}</h1>
+    <a href="{{ "publis.bib" | relURL }}" download>[bibtex]</a>
+  </div>
   <ul class="result">
-    {{ range hugo.Data.publications }}
+    {{ range $publications }}
       <li class="bibline" id="{{ .key }}">
-        <span class="bibtitle">{{ .title }}</span>. <span class="bibmenu"><a class="biburl" href="{{ "publis.bib" | relURL }}">[bibtex]</a>{{ with .pdf }} <a href="{{ . }}">[pdf]</a>{{ end }}{{ with .poster }} <a href="{{ . }}">[poster]</a>{{ end }}{{ with .url }} <a href="{{ . }}">[url]</a>{{ end }}</span><br/>
+        <span class="bibtitle">{{ .title }}</span>. <span class="bibmenu">{{ with .pdf }} <a href="{{ . }}">[pdf]</a>{{ end }}{{ with .poster }} <a href="{{ . }}">[poster]</a>{{ end }}{{ with .url }} <a href="{{ . }}">[url]</a>{{ end }}</span><br/>
         <span class="bibauthor">{{ .authors }}</span> ({{ .year }})<br/>
         <span class="bibbooktitle">{{ .venue }}</span>{{ with .volume }}, volume {{ . }}{{ end }}.<br/>
       </li>

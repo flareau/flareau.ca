@@ -1,21 +1,25 @@
+{{- /* Sort by year descending, then by last name within each year. */ -}}
+{{- $graduates := sort hugo.Data.diplomes "last_name" "asc" -}}
+{{- $graduates = sort $graduates "year" "desc" -}}
+
 <ul>
   {{- /* Render one list item for each graduate record. */ -}}
-  {{- range hugo.Data.diplomes }}
+  {{ range $graduates }}
     {{- $graduate := . -}}
     <li>
       {{- /* Identity, personal link, and optional name in another script. */ -}}
       {{- with $graduate.home }}<a href="{{ . }}">{{ $graduate.first_name }} {{ $graduate.last_name }}{{ with $graduate.foreign_name }} ({{ . }}){{ end }}</a>{{ else }}{{ $graduate.first_name }} {{ $graduate.last_name }}{{ with $graduate.foreign_name }} ({{ . }}){{ end }}{{ end -}}
 
-      {{- /* Graduation year, degree, and institution. */ -}}
-      , {{ $graduate.year }}, {{ $graduate.degree }}{{ with $graduate.affiliation }}, {{ . }}{{ end }}
+      {{- /* Degree, institution, year. */ -}}
+      , {{ $graduate.degree }}{{ with $graduate.affiliation }}, {{ . }}{{ end }} ({{ $graduate.year }})
 
       {{- /* Optional supervisor and their institution. */ -}}
       {{- with $graduate.supervision }}
-        {{- $supervisor := . -}}{{ " " }}({{ $supervisor.role }}: {{ with $supervisor.home }}<a href="{{ . }}">{{ $supervisor.first_name }} {{ $supervisor.last_name }}</a>{{ else }}{{ $supervisor.first_name }} {{ $supervisor.last_name }}{{ end }}{{ with $supervisor.affiliation }}, {{ . }}{{ end }})
+        {{- $supervisor := . -}}{{ ". " }}{{ strings.FirstUpper $supervisor.role }}: {{ with $supervisor.home }}<a href="{{ . }}">{{ $supervisor.first_name }} {{ $supervisor.last_name }}</a>{{ else }}{{ $supervisor.first_name }} {{ $supervisor.last_name }}{{ end }}{{ with $supervisor.affiliation }}, {{ . }}{{ end }}
       {{- end -}}
 
-      {{- /* Thesis, dissertation, or internship title. */ -}}
-      , <em>{{ $graduate.title }}</em>.
+      {{- /* Title. */ -}}
+      . <em>{{ $graduate.title }}</em>.
 
       {{- /* Optional links to the document, source code, and related resource. */ -}}
       {{- with $graduate.pdf }} [<a href="{{ . }}">pdf</a>]{{ end -}}

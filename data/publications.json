@@ -154,6 +154,17 @@
     "url": ""
   },
   {
+    "key": "carini20",
+    "title": "Fonctions lexicales et annotation de corpus: des outils pour l'apprentissage des collocations linguistiques",
+    "authors": "Isabella Carini, Adriano Ferraresi, François Lareau, Silvia Bernardini",
+    "venue": "Actes de la conférence 11e Journées du réseau \"Lexicologie, Terminologie, Traduction\" (LTT)",
+    "volume": "",
+    "year": "2020",
+    "pdf": "/files/carini+etal-ltt18.pdf",
+    "poster": "",
+    "url": ""
+  },
+  {
     "key": "aleksandrova19",
     "title": "Multilingual sentence-level bias detection in Wikipedia",
     "authors": "Desislava Aleksandrova, François Lareau, Pierre André Ménard",
@@ -161,17 +172,6 @@
     "volume": "",
     "year": "2019",
     "pdf": "/files/aleksandrova+etal-ranlp19.pdf",
-    "poster": "",
-    "url": ""
-  },
-  {
-    "key": "carini18",
-    "title": "Fonctions lexicales et annotation de corpus: des outils pour l'apprentissage des collocations linguistiques",
-    "authors": "Isabella Carini, Adriano Ferraresi, François Lareau, Silvia Bernardini",
-    "venue": "Actes du colloque Lexicologie, terminologie, traduction (LTT)",
-    "volume": "",
-    "year": "2018",
-    "pdf": "",
     "poster": "",
     "url": ""
   },
@@ -358,7 +358,7 @@
     "venue": "Language Engineering for Lesser-Studied Languages",
     "volume": "",
     "year": "2009",
-    "pdf": "",
+    "pdf": "/files/wanner+lareau-nirenburg09.pdf",
     "poster": "",
     "url": "http://www.iospress.nl/book/language-engineering-for-lesser-studied-languages"
   },
