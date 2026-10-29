@@ -1,5 +1,5 @@
 {{- /* Sort by year descending, then by last name within each year. */ -}}
-{{- $graduates := sort hugo.Data.diplomes "last_name" "asc" -}}
+{{- $graduates := sort site.Data.diplomes "last_name" "asc" -}}
 {{- $graduates = sort $graduates "year" "desc" -}}
 
 <ul>

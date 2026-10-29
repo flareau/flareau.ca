@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{- /* Sort by year descending, then by title within each year. */ -}}
-  {{- $publications := sort hugo.Data.publications "title" "asc" -}}
+  {{- $publications := sort site.Data.publications "title" "asc" -}}
   {{- $publications = sort $publications "year" "desc" -}}
 
   <div class="publications-header">
