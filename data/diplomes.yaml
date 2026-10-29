@@ -1,0 +1,202 @@
+- last_name: "Aleksandrova"
+  first_name: "Desislava"
+  home: "https://www.linkedin.com/in/desialex"
+  year: 2020
+  degree: "M.A. en linguistique"
+  title: "La détection automatique multilingue d’énoncés biaisés dans Wikipédia"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Aleksandrova_Desislava_2020_mémoire.pdf"
+  code: "https://github.com/desialex/wiki-bias"
+
+- last_name: "Arias Bedoya"
+  first_name: "Claudia"
+  home: "https://www.linkedin.com/in/claudia-arias-3b317364/"
+  year: 2018
+  degree: "M.A. en linguistique"
+  title: "Le temps verbal en espagnol"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Arias_Bedoya_Claudia_2018_MA.pdf"
+
+- last_name: "Carini"
+  first_name: "Isabella"
+  home: "https://www.linkedin.com/in/isabellacarini"
+  year: 2017
+  degree: "M.A. en traduction spécialisée"
+  affiliation: "Universitá di Bologna"
+  supervision:
+    role: "directeur principal"
+    last_name: "Ferraresi"
+    first_name: "Adriano"
+    home: "https://www.unibo.it/sitoweb/adriano.ferraresi"
+  title: "Teoria Senso-Testo e Funzioni Lessicali. Una proposta per il trattamento delle collocazioni linguistiche"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Carini_Isabella_Memoire_Universite_Bologne.pdf"
+
+- last_name: "Corriveau"
+  first_name: "Hubert"
+  home: "https://www.linkedin.com/in/hubert-corriveau-1a19b5208"
+  year: 2021
+  degree: "M.A. en linguistique"
+  title: "De FrameNet à la théorie Sens-Texte: conversion et correspondance"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Corriveau_Hubert_2021_mémoire.pdf"
+
+- last_name: "Cruz Enríquez"
+  first_name: "Maura"
+  home: "https://www.linkedin.com/in/maura-cruz-enr%C3%ADquez-17014a72"
+  year: 2019
+  degree: "Ph.D. en études hispaniques"
+  supervision:
+    role: "directrice principale"
+    last_name: "Alba de la Fuente"
+    first_name: "Anahí"
+    home: "https://llm.umontreal.ca/repertoire-departement/corps-professoral/professeur/in/in19400/sg/Anahi%20Alba%20de%20la%20Fuente/"
+  title: "Función-significado-forma: un modelo para el estudio de los tiempos verbales del español"
+  pdf: "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/22635/Cruz_Enriquez_Maura_2019_these.pdf"
+
+- last_name: "Dubé"
+  first_name: "Michaelle"
+  home: "mailto:michaelle.dube@umontreal.ca"
+  year: 2021
+  degree: "M.A. en linguistique"
+  title: "Le traitement des locutions en génération automatique de texte multilingue"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Dubé_Michaelle_2021_mémoire.pdf"
+
+- last_name: "Dubinskaitė"
+  first_name: "Ieva"
+  home: "https://www.linkedin.com/in/ieva-dubinskaite"
+  year: 2017
+  degree: "stage M2 Industries de la langue"
+  affiliation: "Université Grenoble Alpes"
+  supervision:
+    role: "évaluatrice"
+    last_name: "Tutin"
+    first_name: "Agnès"
+    home: "https://lidilem.univ-grenoble-alpes.fr/membre/agnes-tutin"
+  title: "Développement de ressources lituaniennes pour un générateur automatique de texte multilingue"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Dubinskaite_Ieva_2017_Memoire_Universite_Grenoble_Alpes.pdf"
+
+- last_name: "Fonseca"
+  first_name: "Alexsandro"
+  home: "https://www.linkedin.com/in/alexsandro-fonseca-b739552a"
+  year: 2018
+  degree: "Ph.D. en informatique cognitive"
+  affiliation: "UQAM"
+  supervision:
+    role: "directrice principale"
+    last_name: "Sadat"
+    first_name: "Fatiha"
+    home: "https://professeurs.uqam.ca/professeur/sadat.fatiha"
+  title: "Représentation des collocations dans un réseau lexical à l’aide des fonctions lexicales et des formalismes du Web sémantique"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Fonseca2018-PhD.pdf"
+
+- last_name: "Galarreta-Piquette"
+  first_name: "Daniel"
+  home: "https://www.linkedin.com/in/daniel-galarreta-piquette-5004bb159"
+  year: 2018
+  degree: "M.A. en linguistique"
+  title: "Intégration de VerbNet dans un réalisateur profond"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Galarreta-Piquette_Daniel-2018-memoire.pdf"
+
+- last_name: "Gazeau"
+  first_name: "Avril"
+  home: "https://www.researchgate.net/profile/Avril-Gazeau"
+  year: 2023
+  degree: "M.A. en linguistique"
+  title: "Lexicalisation souple en réalisation de texte"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Gazeau_Avril_2023_memoire.pdf"
+
+- last_name: "Hassert"
+  first_name: "Naïma"
+  home: "https://www.linkedin.com/in/naïma-hassert-384a4170"
+  year: 2023
+  degree: "M.A. en linguistique"
+  title: "Création automatique d’un dictionnaire de régimes des verbes du français"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Hassert_Naima_2023_memoire.pdf"
+  resource: "https://github.com/NaimaHassert/dictionnaire-valence"
+
+- last_name: "Hè"
+  first_name: "Línnà"
+  foreign_name: "贺琳娜"
+  home: "https://www.linkedin.com/in/琳娜-贺-808b60181"
+  year: 2021
+  degree: "M.A. en linguistique"
+  title: "Un dictionnaire de régimes verbaux en mandarin"
+  pdf: "http://olst.ling.umontreal.ca/pdf/He_Linna_2020_memoire.pdf"
+
+- last_name: "Lambrey"
+  first_name: "Florie"
+  home: "https://www.linkedin.com/in/florie-lambrey-b04b3b7b"
+  year: 2016
+  degree: "M.A. en linguistique"
+  title: "Implémentation des collocations pour la réalisation de texte multilingue"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Lambrey_Florie_2016_memoire.pdf"
+
+- last_name: "Lapointe"
+  first_name: "Francis"
+  home: "https://www.linkedin.com/in/lapointefrancis"
+  year: 2017
+  degree: "Ph.D. en linguistique"
+  affiliation: "Université de Sherbrooke"
+  supervision:
+    role: "directrice principale"
+    last_name: "Dostie"
+    first_name: "Gaétane"
+    home: "https://www.usherbrooke.ca/dall/nous-joindre/personnel-enseignant/dostie-gaetane"
+  title: "Identification automatique et analyse sémantique des marqueurs illocutoires du français québécois en contexte de conversation familière"
+  pdf: "http://savoirs.usherbrooke.ca/bitstream/handle/11143/11579/Lapointe_Francis_PhD_2017.pdf"
+
+- last_name: "Lǐ"
+  first_name: "Shùxù"
+  foreign_name: "李树旭"
+  home: "https://www.linkedin.com/in/shuxu-li-a52871199/"
+  year: 2025
+  degree: "M.A. en linguistique"
+  supervision:
+    role: "codirecteur"
+    last_name: "Venant"
+    first_name: "Antoine"
+    home: "https://ling-trad.umontreal.ca/repertoire-departement/professeurs/professeur/in/in31544/sg/Antoine%20Venant/"
+  title: "Évaluation de la compétence lexicale des modèles de langues"
+  pdf: "https://olst.ling.umontreal.ca/static/pdf/Li_Shuxu_2025_memoire.pdf"
+  code: "https://github.com/shuxu-li/evallfs-m.a.thesis-shuxuli"
+
+- last_name: "Negrón Rodríguez"
+  first_name: "Jaime Andrés"
+  home: "https://www.linkedin.com/in/jaime-andrés-negrón-rodr%C3%ADguez-49168214b"
+  year: 2024
+  degree: "M.A. en linguistique"
+  title: "Le temps verbal en réalisation de texte multilingue"
+  pdf: "https://olst.ling.umontreal.ca/static/pdf/Negrón_Rodríguez_Jaime_Andrés_2024_memoire.pdf"
+
+- last_name: "Portenseigne"
+  first_name: "Charlotte"
+  home: "https://www.linkedin.com/in/charlotte-portenseigne-5186b7128"
+  year: 2021
+  degree: "M.A. en linguistique"
+  title: "L’implémentation des relatives dans un réalisateur profond"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Portenseigne_Charlotte_2021_mémoire.pdf"
+
+- last_name: "Qiáo"
+  first_name: "Yúnpéng"
+  foreign_name: "乔云鹏"
+  home: "https://www.linkedin.com/in/yunpeng-qiao-a8b434250"
+  year: 2024
+  degree: "M.A. en linguistique"
+  title: "Les verbes à montée et à contrôle dans un réalisateur de texte"
+  pdf: "https://olst.ling.umontreal.ca/static/pdf/Qiao_Yunpeng_2024_memoire.pdf"
+  code: "https://github.com/QMirai/GenDr_modal"
+
+- last_name: "Richard"
+  first_name: "Simon"
+  home: "https://www.linkedin.com/in/simrichard"
+  year: 2016
+  degree: "M.A. en linguistique"
+  title: "Un outil pour développer et tester les grammaires d’unification polarisées"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Richard_Simon_2016_memoire.pdf"
+
+- last_name: "Zhào"
+  first_name: "Xiǎoyǔ"
+  foreign_name: "赵小羽"
+  home: "https://www.linkedin.com/in/xiaoyu-zhao-72129678"
+  year: 2018
+  degree: "M.A. en linguistique"
+  title: "Les collocations du champ sémantique des émotions en mandarin"
+  pdf: "http://olst.ling.umontreal.ca/pdf/Zhao_Xiaoyu_2018_memoire.pdf"
+  resource: "http://olst.ling.umontreal.ca/xiaoyu"

@@ -15,12 +15,13 @@ version déployable dans `public/` :
 make build
 ```
 
-Tout le contenu à maintenir manuellement est regroupé dans `content/` :
+Le contenu à maintenir manuellement est regroupé dans `content/` et `data/` :
 
 - `content/pages/` contient les deux pages du site;
 - `content/sections/` contient les sections Markdown du profil;
 - `content/publications/publis.bib` contient la bibliographie;
-- `content/publications/files/` contient les PDF.
+- `content/publications/files/` contient les PDF;
+- `data/diplomes.yaml` contient les diplômés.
 
 Le `Makefile` régénère automatiquement `data/publications.json` avant chaque
 prévisualisation ou build. Le reste du dépôt constitue la mécanique du site et
